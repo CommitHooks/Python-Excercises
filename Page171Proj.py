@@ -6,7 +6,7 @@ def isLongerThanEight(password):
     if len(password) >= 8:
         return True
 
-def hasUpperCaseLetter(password):   
+def hasUpperCaseLetter(password):
     pswdRegex = re.compile(r'[A-Z]+')
     if pswdRegex.search(password).group():
         return True
@@ -16,7 +16,7 @@ def hasLowerCaseLetter(password):
     if pswdRegex.search(password).group():
         return True
 
-def hasDigit(password):  
+def hasDigit(password):
     pswdRegex = re.compile(r'\d+')
     if pswdRegex.search(password).group():
         return True
@@ -30,7 +30,3 @@ while not (isLongerThanEight(pw) and hasUpperCaseLetter(pw) and hasLowerCaseLett
     pw = input()
 
 print('Password entered is valid. Thank you!')
-
-    
-    
-    
