@@ -1,0 +1,10 @@
+2015-09-24 13:54:50:359  INFO [scheduler_Worker-2] PerformanceTimer:44 - [PiDataRefreshJob] - Completed Refresh PI data job. | 0.325
+2015-09-24 13:54:50:546  INFO [task-scheduler-1] PerformanceTimer:44 - [DefaultMessagePublisher] - Completed publishing MAXIMIZED_SOUTH_AB_GENERATION_REQUEST_TYPE message. | 0.01
+2015-09-24 13:54:50:548 DEBUG [task-scheduler-1] PerformanceTimer:76 - Payload Status: MAXIMIZED_SOUTH_AB_GENERATION_REQUEST_TYPE SUCCESS | 0.427
+2015-09-24 13:54:50:556  INFO [task-scheduler-1] PerformanceTimer:44 - [DefaultMessagePublisher] - Completed publishing MAXIMIZED_SOUTH_AB_GENERATION_REQUEST_TYPE message. | 0.0070
+2015-09-24 13:54:50:557 DEBUG [task-scheduler-1] PerformanceTimer:76 - Payload Status: MAXIMIZED_SOUTH_AB_GENERATION_REQUEST_TYPE SUCCESS | 0.433
+2015-09-24 13:54:50:565  INFO [task-scheduler-1] PerformanceTimer:44 - [DefaultMessagePublisher] - Completed publishing MAXIMIZED_SOUTH_AB_GENERATION_REQUEST_TYPE message. | 0.0070
+2015-09-24 13:54:50:566 DEBUG [task-scheduler-1] PerformanceTimer:76 - Payload Status: MAXIMIZED_SOUTH_AB_GENERATION_REQUEST_TYPE SUCCESS | 0.438
+2015-09-24 13:54:52:610 DEBUG [scheduler_Worker-4] PerformanceTimer:36 - [AiesLoadRequestUpdateJob] - Completed margo.aiesLoadRequestUpdateJob | 2.504
+2015-09-24 13:55:10:623  INFO [scheduler_Worker-5] PerformanceTimer:44 - [PiDataRefreshJob] - Completed Refresh PI data job. | 0.587
+2015-09-24 13:55:30:149  INFO [scheduler_Worker-3] PerformanceTimer:44 - [PiDataRefreshJob] - Completed Refresh PI data job. | 0.11
