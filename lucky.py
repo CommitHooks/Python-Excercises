@@ -1,6 +1,12 @@
 #!python3
 # luck.py - Open several Google search results
 # To run this program, type "python lucky.py [word1] [word2]"
+"""
+This is what your program does:
+ - Gets search keywords from the command line arguments.
+ - Retrieves the search results page.
+ - Opens a browser tab for each result.
+"""
 
 import requests, sys, webbrowser, bs4
 
